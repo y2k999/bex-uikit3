@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/**
+Theme Name: Beans Extension Uikit3
+Theme URI: https://www.getbeans.io/themes/beans/
+Author: Beans
+Author URI: https://www.getbeans.io
+Description: This is a sample WordPress starter theme for Uikit3 css framework. Also, this theme based on the Beans framework. It is required to install the Beans Extension plugin. 
+Requires at least: 5.3
+Tested up to: 5.7.1
+Requires PHP: 7.0
+Version: 1.5.1
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: bex-uikit3
+Tags: one-column, two-columns, right-sidebar, flexible-header, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, block-patterns
+*/
+
+
+/**
+[NOTE]
+This theme requires the Beans Extension plugin.
+It is recommended to configure the plugin in the "Uikit Version" section of the first tab ("Preview" panel).
+1. For the "Range of Uikit2 components to use" setting, select "Load only normalize.css" option.
+2. For the "Use Uikit3 via CDN" setting, check the checkbox.
+3. Submit the save button.
+*/
+
+
+/* The CSS below is added to align to WordPress theme automatic checker.
+ * The actual CSS is situated in the style.less file.
+ ========================================================================== */
+
+.alignleft {}
+.alignright {}
+.aligncenter {}
+.wp-caption {}
+.wp-caption-text {}
+.sticky {}
+.screen-reader-text {}
+.gallery-caption {}
+.bypostauthor {}
